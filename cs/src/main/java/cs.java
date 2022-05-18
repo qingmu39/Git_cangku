@@ -7,6 +7,7 @@ public class cs {
         System.out.println("master 01");
         System.out.println("push test");
         System.out.println("pull test");
-        
+        System.out.println("push test02");
+
     }
 }
