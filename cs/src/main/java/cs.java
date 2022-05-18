@@ -5,5 +5,6 @@ public class cs {
         System.out.println("3");
         System.out.println("host 01");
         System.out.println("master 01");
+        System.out.println("push test");
     }
 }
